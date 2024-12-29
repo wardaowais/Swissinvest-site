@@ -1,0 +1,601 @@
+[33mcommit cf3039f562893172ef015f39cfcfb1cd8e38a153[m[33m ([m[1;36mHEAD -> [m[1;32mdev-eff[m[33m)[m
+Author: effety <effety@gmail.com>
+Date:   Sun Oct 6 19:09:47 2024 +0600
+
+    Remove large file app.zip
+
+[33mcommit fe6742b9d1355fd7a487660afc0a3cbc9c7222f6[m
+Author: effety <effety@gmail.com>
+Date:   Sun Oct 6 18:38:35 2024 +0600
+
+    propanel dashboard updated
+
+[33mcommit e439e1e9c1402f00f494203bc8e520f5b5d4c861[m[33m ([m[1;31morigin/dev-eff[m[33m)[m
+Author: effety <effety@gmail.com>
+Date:   Sun Oct 6 06:18:42 2024 +0600
+
+    canton search is updated
+
+[33mcommit 902f5ce59ded0a8f618e82c4a80433ce1c8f3d7b[m
+Author: effety <effety@gmail.com>
+Date:   Sun Oct 6 01:35:30 2024 +0600
+
+    fixed the patients dashboard align
+
+[33mcommit 205793a87b843d9f947ce2090582805563560d51[m
+Author: effety <effety@gmail.com>
+Date:   Sat Oct 5 21:56:57 2024 +0600
+
+    add plans
+
+[33mcommit 4570f11b08c2a61a7c7832d4b7beb3365374ae4e[m
+Author: effety <effety@gmail.com>
+Date:   Sat Oct 5 21:40:20 2024 +0600
+
+    patients extension Code added
+
+[33mcommit f0033be88a8e00135137dec0c227878e0543f67a[m
+Author: effety <effety@gmail.com>
+Date:   Sat Oct 5 18:37:33 2024 +0600
+
+    price list updated
+
+[33mcommit 6dc025082a0c9143ac1588a4022806e107d2a769[m
+Author: effety <effety@gmail.com>
+Date:   Sat Oct 5 01:56:12 2024 +0600
+
+    healthtips updated
+
+[33mcommit 59bebd86f3e93ee3908e0d43aed1d3fa6de77b1e[m
+Author: effety <effety@gmail.com>
+Date:   Fri Oct 4 23:47:15 2024 +0600
+
+    updated
+
+[33mcommit c28f19d64dfdb1923448dcfb4f812c260f0d31e3[m
+Merge: 02ea351 49db6dc
+Author: effety <effety@gmail.com>
+Date:   Fri Oct 4 23:46:21 2024 +0600
+
+    Merge branch 'dev-eff' of https://github.com/alloMedicaORG/doctor_list_demo into dev-eff
+
+[33mcommit 02ea351400f883757a6eff631779613e49eb9e85[m
+Author: effety <effety@gmail.com>
+Date:   Fri Oct 4 23:45:37 2024 +0600
+
+    updated
+
+[33mcommit e3a8e22b64f4fc9c5da0e557e8a59eaf5d6b7ae7[m
+Author: effety <effety@gmail.com>
+Date:   Fri Oct 4 23:29:47 2024 +0600
+
+    career integrated
+
+[33mcommit 49db6dcb7eb16a1f8a9cf51c53c34d0271124e54[m
+Merge: 942ec25 eac1750
+Author: effety <effety@gmail.com>
+Date:   Fri Oct 4 21:58:58 2024 +0600
+
+    Merge branch 'dev-eff' of https://github.com/alloMedicaORG/doctor_list_demo into dev-eff
+
+[33mcommit eac1750fc0b6f59cee74419f53d636ee53749024[m
+Author: effety <effety@gmail.com>
+Date:   Fri Oct 4 21:51:37 2024 +0600
+
+    chat list feature updated
+
+[33mcommit ee64b7b98b917d4e2173c9fffcf82dceb9970972[m
+Author: effety <effety@gmail.com>
+Date:   Fri Oct 4 21:40:07 2024 +0600
+
+    chat feature
+
+[33mcommit 3fb21adb2c64671ebd4a21ac4a553331eb11b383[m
+Author: effety <effety@gmail.com>
+Date:   Fri Oct 4 20:03:32 2024 +0600
+
+    canton id link to city
+
+[33mcommit 67b1cb06f42a49e22dd3906f103c864fe477f745[m
+Author: effety <effety@gmail.com>
+Date:   Fri Oct 4 19:21:39 2024 +0600
+
+    map updated
+
+[33mcommit ed5535bdad9c6e13d51875c542ed136da6724d0d[m
+Author: effety <effety@gmail.com>
+Date:   Fri Oct 4 17:24:11 2024 +0600
+
+    map for all doctor search result 0 updated
+
+[33mcommit ac17b36e2071af1e7852417162945d829df9a626[m
+Author: effety <effety@gmail.com>
+Date:   Thu Oct 3 21:53:29 2024 +0600
+
+    extension in api
+
+[33mcommit 369114e8138028bb176767f8e8d62cd3f847a72e[m
+Author: effety <effety@gmail.com>
+Date:   Thu Oct 3 21:45:37 2024 +0600
+
+    extension code added
+
+[33mcommit 63d4b6f9b63a5dd00a30b9e65425d0684b38896d[m
+Author: effety <effety@gmail.com>
+Date:   Wed Oct 2 00:20:25 2024 +0600
+
+    free trail
+
+[33mcommit 570d50f3d1251e9ec751b607a5fc4c60ca769fe5[m
+Author: effety <effety@gmail.com>
+Date:   Tue Oct 1 23:51:48 2024 +0600
+
+    plans name
+
+[33mcommit 38141da0b0d36bae224f68ec5e16188f516cb759[m
+Author: effety <effety@gmail.com>
+Date:   Tue Oct 1 01:18:29 2024 +0600
+
+    medical news admin panel
+
+[33mcommit 9e627ba21177949883d027a06049b9cc59e872bc[m
+Author: effety <effety@gmail.com>
+Date:   Tue Oct 1 01:15:51 2024 +0600
+
+    medical news paid feature
+
+[33mcommit 3ff25e20a9621d9c54a022facba268c909f50177[m
+Author: effety <effety@gmail.com>
+Date:   Mon Sep 30 16:34:42 2024 +0600
+
+    menu bar updated
+
+[33mcommit 32690b7b1c35333655aa2558d41ccfa1dfaa69b8[m
+Author: effety <effety@gmail.com>
+Date:   Sat Sep 28 16:54:48 2024 +0600
+
+    admin plans updated
+
+[33mcommit 79e0429d2673ec2445da25728d40b79cafa4bf4f[m
+Author: effety <effety@gmail.com>
+Date:   Sat Sep 28 16:06:26 2024 +0600
+
+    Subscripiton updated
+
+[33mcommit b14e101fb143b77a9be7998293265f38cd5f5ae9[m
+Author: effety <effety@gmail.com>
+Date:   Wed Sep 25 17:26:36 2024 +0600
+
+    doctor avilablity updated
+
+[33mcommit 3cf9a0dda2e1373f96bebcfe7e53dfe8ea0814fd[m
+Author: effety <effety@gmail.com>
+Date:   Wed Sep 25 12:06:33 2024 +0600
+
+    updated
+
+[33mcommit 9924f2f552db3b22c3c792c70b3673908adb87b7[m
+Author: effety <effety@gmail.com>
+Date:   Wed Sep 25 11:59:27 2024 +0600
+
+    address updated
+
+[33mcommit 0fd4ad76c18da6f998ac4545c326ff82c214ab3f[m
+Author: effety <effety@gmail.com>
+Date:   Tue Sep 24 15:47:17 2024 +0600
+
+    main landing page
+
+[33mcommit 9fe0191db0d26d93419356869925569356a68847[m
+Author: effety <effety@gmail.com>
+Date:   Tue Sep 24 15:32:42 2024 +0600
+
+    testemonial section dynamic
+
+[33mcommit e7fb9909f7ede921f0501e71978f7373f2d69040[m
+Author: effety <effety@gmail.com>
+Date:   Tue Sep 24 00:55:52 2024 +0600
+
+    main landing
+
+[33mcommit d8663a91d2aa1bd14db2fd6eafd6d60b5b92330e[m
+Author: effety <effety@gmail.com>
+Date:   Tue Sep 24 00:45:48 2024 +0600
+
+    updated
+
+[33mcommit 09fcb009c94bf5675de98a240ca603a950fb272a[m
+Author: effety <effety@gmail.com>
+Date:   Tue Sep 24 00:40:26 2024 +0600
+
+    app blade updated
+
+[33mcommit f2b8143d574d24286efcd2c6b279f702a106f30b[m
+Author: effety <effety@gmail.com>
+Date:   Mon Sep 23 23:03:05 2024 +0600
+
+    landing update
+
+[33mcommit 3c15cdeab75d7e5564659fc329f23948e4141603[m
+Author: effety <effety@gmail.com>
+Date:   Mon Sep 23 21:47:22 2024 +0600
+
+    main landing updated
+
+[33mcommit 596c6ee0466e81509e1db7162c1c1fefa7f02e29[m
+Author: effety <effety@gmail.com>
+Date:   Mon Sep 23 18:20:39 2024 +0600
+
+    home updated
+
+[33mcommit fdcfab7c6a0c3824396728bf465dbc40efed8706[m
+Author: effety <effety@gmail.com>
+Date:   Mon Sep 23 18:16:34 2024 +0600
+
+    main home updated
+
+[33mcommit d4037c0bd69322db3d72db0098ac2ead33927ceb[m
+Author: effety <effety@gmail.com>
+Date:   Mon Sep 23 16:58:52 2024 +0600
+
+    v3 home
+
+[33mcommit 6e79ea7f7a0be26360ec255be6544328e668e030[m
+Author: effety <effety@gmail.com>
+Date:   Mon Sep 23 16:44:20 2024 +0600
+
+    updated
+
+[33mcommit 63acdff4ef9bb4e1a5409f6d47caa8c9cc1877cd[m
+Author: effety <effety@gmail.com>
+Date:   Mon Sep 23 16:19:05 2024 +0600
+
+    landing page patient dash updated
+
+[33mcommit caf6350429c4096bbb726ca9552427bee5a25aac[m
+Author: effety <effety@gmail.com>
+Date:   Mon Sep 23 14:40:42 2024 +0600
+
+    Landig page new design updated
+
+[33mcommit cd5badd6d006f802667bfb63850f03d2075411f7[m
+Author: effety <effety@gmail.com>
+Date:   Mon Sep 23 14:37:16 2024 +0600
+
+    Landig page new design updated
+
+[33mcommit 942ec2555aed55c906fb9ab4ee5640e75dfb91f7[m
+Merge: 5b2d15a bc89d9d
+Author: Effety <64736834+effety@users.noreply.github.com>
+Date:   Fri Sep 20 22:25:20 2024 +0600
+
+    Merge pull request #675 from alloMedicaORG/dev-eff
+    
+    patient panel updated
+
+[33mcommit bc89d9d2cffd93e2b8e35ee3d6cc08495b008b8b[m
+Author: effety <effety@gmail.com>
+Date:   Fri Sep 20 22:24:46 2024 +0600
+
+    patient panel updated
+
+[33mcommit 5b2d15ad6dad7cf37de1c7340dc0d8c93a8a92b7[m
+Merge: aa356e1 0f6ed33
+Author: Effety <64736834+effety@users.noreply.github.com>
+Date:   Fri Sep 20 17:32:11 2024 +0600
+
+    Merge pull request #674 from alloMedicaORG/dev-eff
+    
+    favorite member
+
+[33mcommit 0f6ed3394a0509eddb06ce0ee655e28eec0345c4[m
+Author: effety <effety@gmail.com>
+Date:   Fri Sep 20 17:31:46 2024 +0600
+
+    favorite member
+
+[33mcommit aa356e142db555f17b9162b6935ef677df6fe656[m
+Merge: d6a3041 171453a
+Author: Effety <64736834+effety@users.noreply.github.com>
+Date:   Fri Sep 20 16:57:05 2024 +0600
+
+    Merge pull request #673 from alloMedicaORG/dev-eff
+    
+    favorite member new design updated
+
+[33mcommit 171453a56ff6c3fa5975f2212cfbf92b1fddd3bb[m
+Author: effety <effety@gmail.com>
+Date:   Fri Sep 20 16:56:33 2024 +0600
+
+    favorite member new design updated
+
+[33mcommit d6a304166833ae774419c5386688970c2803fa24[m
+Merge: 7555c40 68599f8
+Author: Effety <64736834+effety@users.noreply.github.com>
+Date:   Wed Sep 18 14:02:25 2024 +0600
+
+    Merge pull request #672 from alloMedicaORG/dev-eff
+    
+    p dash greetings upatded
+
+[33mcommit 68599f87a79ca65cd2b29d05f0c1c568d7b27bf9[m
+Author: effety <effety@gmail.com>
+Date:   Wed Sep 18 14:00:19 2024 +0600
+
+    p dash greetings upatded
+
+[33mcommit 7555c4047ec93c268d734162dd5980db5f33e05b[m
+Merge: 6281cde 8a3f5d9
+Author: Effety <64736834+effety@users.noreply.github.com>
+Date:   Wed Sep 18 13:22:17 2024 +0600
+
+    Merge pull request #671 from alloMedicaORG/dev-eff
+    
+    pending appointemnt updated
+
+[33mcommit 8a3f5d992983af8163c5119b948c825c76751a21[m
+Author: effety <effety@gmail.com>
+Date:   Wed Sep 18 13:21:55 2024 +0600
+
+    pending appointemnt updated
+
+[33mcommit 6281cde09ae712c6cad98f4dd8de9e7dcc9af07c[m
+Merge: 4dd5da7 ec990fa
+Author: Effety <64736834+effety@users.noreply.github.com>
+Date:   Wed Sep 18 13:18:39 2024 +0600
+
+    Merge pull request #670 from alloMedicaORG/dev-eff
+    
+    new patient dashboarad upadted
+
+[33mcommit ec990fa620470b4ca7c5da563a17bc5e6f99f11b[m
+Author: effety <effety@gmail.com>
+Date:   Wed Sep 18 13:17:53 2024 +0600
+
+    new patient dashboarad upadted
+
+[33mcommit 4dd5da789a03125556513d0761de15b4b4407ead[m
+Merge: 7408087 bb0531b
+Author: Effety <64736834+effety@users.noreply.github.com>
+Date:   Wed Sep 18 13:05:09 2024 +0600
+
+    Merge pull request #669 from alloMedicaORG/dev-eff
+    
+    main headling hide
+
+[33mcommit bb0531b22a4a21e794bce56af1a3494e1f7ff190[m
+Author: effety <effety@gmail.com>
+Date:   Wed Sep 18 13:04:45 2024 +0600
+
+    main headling hide
+
+[33mcommit 74080878be76617f89b3283922d1768c6d15ed2b[m
+Merge: 30e59c7 d5462b9
+Author: Effety <64736834+effety@users.noreply.github.com>
+Date:   Wed Sep 18 12:54:29 2024 +0600
+
+    Merge pull request #668 from alloMedicaORG/dev-eff
+    
+    main home updated
+
+[33mcommit d5462b9d8fc2b94394198e19cb7299d2062a058d[m
+Author: effety <effety@gmail.com>
+Date:   Wed Sep 18 12:53:59 2024 +0600
+
+    main home updated
+
+[33mcommit 30e59c7688418f34ee2f3bf8f869b3dc35c89ecd[m
+Merge: 197c9b3 df848d9
+Author: Effety <64736834+effety@users.noreply.github.com>
+Date:   Tue Sep 17 23:45:17 2024 +0600
+
+    Merge pull request #667 from alloMedicaORG/dev-eff
+    
+    main page updated
+
+[33mcommit df848d9bdedb4e4a44a5a7ee97585e19e880720c[m
+Author: effety <effety@gmail.com>
+Date:   Tue Sep 17 23:44:34 2024 +0600
+
+    main page updated
+
+[33mcommit 197c9b3b14c4a4aa5e518f58c907620282f62fb7[m
+Merge: 5f610c2 be6b9b0
+Author: Effety <64736834+effety@users.noreply.github.com>
+Date:   Tue Sep 17 23:34:16 2024 +0600
+
+    Merge pull request #666 from alloMedicaORG/dev-eff
+    
+    main home updated
+
+[33mcommit be6b9b0d0ed19cbab332908e23698e249b53d883[m
+Author: effety <effety@gmail.com>
+Date:   Tue Sep 17 23:33:51 2024 +0600
+
+    main home updated
+
+[33mcommit 5f610c2f3c6908ed6577560e68dc54775bbb7446[m
+Merge: b94c849 1ff9fd9
+Author: Effety <64736834+effety@users.noreply.github.com>
+Date:   Mon Sep 16 16:55:53 2024 +0600
+
+    Merge pull request #665 from alloMedicaORG/dev-eff
+    
+    friend list updated
+
+[33mcommit 1ff9fd9af79dac712fc1ba460e56f8463db7cfce[m
+Author: effety <effety@gmail.com>
+Date:   Mon Sep 16 16:55:33 2024 +0600
+
+    friend list updated
+
+[33mcommit b94c849e756e7dcdda820566666351aeac033b74[m
+Merge: f56e6f4 25bdb9c
+Author: Effety <64736834+effety@users.noreply.github.com>
+Date:   Mon Sep 16 15:51:26 2024 +0600
+
+    Merge pull request #664 from alloMedicaORG/dev-eff
+    
+    updated
+
+[33mcommit 25bdb9cfc431a28beee1c646508827ac3f851012[m
+Author: effety <effety@gmail.com>
+Date:   Mon Sep 16 15:51:00 2024 +0600
+
+    updated
+
+[33mcommit f56e6f430017a6245686b8d8ced63dfe6395d838[m
+Merge: 20c685a cb58699
+Author: Effety <64736834+effety@users.noreply.github.com>
+Date:   Mon Sep 16 15:42:29 2024 +0600
+
+    Merge pull request #663 from alloMedicaORG/dev-eff
+    
+    tele medicine and phone consult pages added
+
+[33mcommit cb586994c7a8e8bc447e130681c47f2b98f2d732[m
+Author: effety <effety@gmail.com>
+Date:   Mon Sep 16 15:42:03 2024 +0600
+
+    tele medicine and phone constult pages added
+
+[33mcommit 20c685a5b287a3d087f1c09c0cf3c4591c352e09[m
+Merge: fd496f7 9bdf1fb
+Author: Effety <64736834+effety@users.noreply.github.com>
+Date:   Mon Sep 16 14:38:40 2024 +0600
+
+    Merge pull request #662 from alloMedicaORG/dev-eff
+    
+    file controller udpated
+
+[33mcommit 9bdf1fbcd9bcd2c70c01ebca32112b4977280064[m
+Author: effety <effety@gmail.com>
+Date:   Mon Sep 16 14:38:10 2024 +0600
+
+    file controller udpated
+
+[33mcommit fd496f73ba7ff80531fde96900f2efda3efb8ff1[m
+Merge: f07ee0f d9814e1
+Author: Effety <64736834+effety@users.noreply.github.com>
+Date:   Mon Sep 16 14:25:42 2024 +0600
+
+    Merge pull request #661 from alloMedicaORG/dev-eff
+    
+    health tips updated
+
+[33mcommit d9814e1700250ae9e24a05924160603591a251b2[m
+Author: effety <effety@gmail.com>
+Date:   Mon Sep 16 14:24:54 2024 +0600
+
+    health tips updated
+
+[33mcommit f07ee0f28ef71750b88d6669539d74bfbb78c25f[m
+Merge: 3077e8c 57b5af9
+Author: Effety <64736834+effety@users.noreply.github.com>
+Date:   Sun Sep 15 16:32:44 2024 +0600
+
+    Merge pull request #660 from alloMedicaORG/dev-eff
+    
+    patient insurance added
+
+[33mcommit 57b5af9468f78164a3669fac32104a96c693ce12[m
+Author: effety <effety@gmail.com>
+Date:   Sun Sep 15 16:31:50 2024 +0600
+
+    patien profile updated
+
+[33mcommit 0a832122fcc73ff3d118321cf800348813f94ef7[m
+Author: effety <effety@gmail.com>
+Date:   Sat Sep 14 17:16:43 2024 +0600
+
+    company bookings updated
+
+[33mcommit 3077e8cf58e7c890072f9fc404efec9654910630[m
+Merge: ed46732 3b35a41
+Author: Effety <64736834+effety@users.noreply.github.com>
+Date:   Sat Sep 14 16:35:31 2024 +0600
+
+    Merge pull request #659 from alloMedicaORG/dev-eff
+    
+    company direct booking is updated
+
+[33mcommit 3b35a41f7fd3da34374cf63d01a113188debec2f[m
+Author: effety <effety@gmail.com>
+Date:   Sat Sep 14 16:34:55 2024 +0600
+
+    company direct booking is updated
+
+[33mcommit ed46732419d34c5b590d5f10471486434c33199e[m
+Merge: a3519ff fed7567
+Author: Effety <64736834+effety@users.noreply.github.com>
+Date:   Fri Sep 13 17:51:32 2024 +0600
+
+    Merge pull request #658 from alloMedicaORG/dev-eff
+    
+    tips updated
+
+[33mcommit fed756705b94449667b01bd47e1245b9a42f8252[m
+Author: effety <effety@gmail.com>
+Date:   Fri Sep 13 17:51:08 2024 +0600
+
+    tips updated
+
+[33mcommit a3519ff50a80367f0b4a29279dcdf0c3fa6a2b9b[m
+Merge: 52f0517 d96e80f
+Author: Effety <64736834+effety@users.noreply.github.com>
+Date:   Fri Sep 13 17:49:11 2024 +0600
+
+    Merge pull request #657 from alloMedicaORG/dev-eff
+    
+    Dev eff
+
+[33mcommit d96e80fa648addedcc4ed76b07eb1e6315ef2249[m
+Author: effety <effety@gmail.com>
+Date:   Fri Sep 13 17:48:49 2024 +0600
+
+    same avatar updater for patient panel
+
+[33mcommit 1d80ed6b52dbf59fc5e5653ff02453d2ff751b3b[m
+Author: effety <effety@gmail.com>
+Date:   Fri Sep 13 17:45:16 2024 +0600
+
+    patient panel same avi updated
+
+[33mcommit 52f05176541ea37b99dee3c3f6ac2a63c54283b0[m
+Merge: 97e644c 6b5872f
+Author: Effety <64736834+effety@users.noreply.github.com>
+Date:   Fri Sep 13 17:23:27 2024 +0600
+
+    Merge pull request #656 from alloMedicaORG/dev-eff
+    
+    patient table healthtips
+
+[33mcommit 6b5872f711802555ed2d4d50b51347c0075ae25d[m
+Author: effety <effety@gmail.com>
+Date:   Fri Sep 13 17:23:01 2024 +0600
+
+    patient table healthtips
+
+[33mcommit 97e644cbfcc222f0fb59ce4560fdf10795a67e85[m
+Merge: 3f69709 585c55f
+Author: Effety <64736834+effety@users.noreply.github.com>
+Date:   Fri Sep 13 16:54:16 2024 +0600
+
+    Merge pull request #655 from alloMedicaORG/dev-eff
+    
+    health tips admin panel updated
+
+[33mcommit 585c55fe2b107e2ce4563a34abd6e3f4dcb20611[m
+Author: effety <effety@gmail.com>
+Date:   Fri Sep 13 16:45:41 2024 +0600
+
+    health tips admin panel updated
+
+[33mcommit 3f697095467cad35eea65e698ae85c1fc292c6e0[m
+Merge: 0b42e50 6bf1d42
+Author: Effety <64736834+effety@users.noreply.github.com>
+Date:   Fri Sep 13 16:21:09 2024 +0600
+
+    Merge pull request #654 from alloMedicaORG/dev-eff
+    
+    health tips updated

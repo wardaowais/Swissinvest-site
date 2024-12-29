@@ -1,0 +1,275 @@
+@media (max-width: 1199.98px) {
+    .banner h1{
+        font-size: 70px;
+        line-height: normal;
+    }
+    .header .drp li a.btn{
+        padding: 8px 15px;
+    }
+  }
+@media (max-width: 991.98px) { 
+    .banner h1{
+        font-size: 45px;
+        line-height: normal;
+    }
+    .banner{
+        background-position: center center;
+    }
+
+ }
+@media (max-width: 767.98px) { 
+    .header .drp{
+        justify-content: center;
+    }
+    .header .content{
+        text-align: center;
+    }
+
+    .banner .row{
+        height: 36rem !important;
+    }
+    .bform form ul li{
+        width: 100%;
+    }
+
+    .bform{
+        max-width: 100%;
+        padding: 0 5px !important;
+    }
+    .bform form{
+        border-radius: 0;
+    }
+    .bform form ul{
+        display: block;
+    }
+    .bform form ul li{
+        margin-left: 0;
+        padding: 15px 10px;
+    }
+    .bform form ul li button {
+        position: relative;
+        right: inherit;
+        top: inherit;
+        max-width: 100%;
+        border-radius: 0px;
+    }
+    .bform form ul li:last-child{
+        width: 100%;
+        height: 50px;
+    }
+    .appoinment_widget{
+        padding-top: 60px;
+    }
+    .headline{
+        font-size: 35px;
+    }
+    .appoinment_widget .content h1{
+        font-size: 26px;
+    }
+    .appoinment_widget .content p, .directory p{
+        font-size: 14px;
+    }
+    .height-auto .row {
+        height: 8rem !important;
+    }
+ }
+@media (max-width: 575.98px) { 
+    .header .drp button, .header .drp li a.btn{
+        width: auto;
+        font-size: 10px;
+    }
+    .header .drp .btn.btn-secondary.dropdown-toggle,
+    .header .drp li a{
+        font-size: 10px;
+    }
+    .banner .row{
+        height: 20rem;
+    }
+    .search-container .dropdownn .suggestion{
+        font-size: 12px;
+    }
+ }
+
+
+
+
+
+
+
+
+ /* page 02 */
+@media (max-width: 1199.98px) { 
+    .bform{
+        padding: 0 40px;
+    }
+ }
+@media (max-width: 991.98px) { 
+    
+    .directory .content .box{
+        position: relative;
+    }
+    .directory .content .box {
+        position: relative;
+        top: inherit;
+        left: inherit;
+        bottom: inherit;
+        margin: 20px auto;
+        max-width: 100%;
+        text-align: center;
+      }
+      .directory .content .box p{
+        text-align: center;
+      }
+      .bcontent{
+        display: block;
+        margin-bottom: 20px;
+      }
+ }
+@media (max-width: 767.98px) { 
+    .add-banner-main {
+        padding-top: 40px;
+    }
+    .dlist_single .content .profile img {
+        width: 55px;
+    }
+    .dlist_single .content .profile .text h3{
+        font-size: 20px;
+    }
+    .dlist_single .content .profile .text p{
+        font-size: 12px;
+    }
+    .tags li{
+        font-size: 10px;
+    }
+    .dlist_single .content a, .doc-list .cat ul li select{
+        font-size: 10px;
+    }
+    .schedule h4{
+        font-size: 14px;
+    }
+    .schedule h6{
+        font-size: 10px;
+        display: block;
+        width: auto;
+    }
+    .schedule .stime li{
+        font-size: 9px;
+        height: auto;
+    }
+    .dlist_single .content a{
+        top: 0;
+    }
+    #oph-banner h1{
+        font-size: 41px;
+    }
+ }
+@media (max-width: 575.98px) { 
+    .dlist_single .content .profile{
+        padding-bottom: 51px;
+    }
+    .dlist_single .content a {
+        top: inherit;
+        right: 0;
+        bottom: 9px;
+        font-size: 9px;
+        width: 100%;
+        text-align: center;
+    }
+     .schedule .stime li {
+        font-size: 7px;
+        height: auto;
+        width: 31.5%;
+        margin-right: 1.4%;
+        line-height: 30px;
+    }
+    .tags{
+        display: block;
+        overflow: hidden;
+    }
+    .tags li{
+        margin-bottom: 10px;
+        text-align: center;
+        float: left;
+    }
+    #sdkld .text {
+        display: block;
+    }
+    .profile-details .content .box .buttons{
+        margin-top: -20px;
+    }
+    #oph-banner h1 {
+        font-size: 27px;
+    }
+    .date-selector .prev-date {
+        font-size: 11px;
+        left: -35px;
+        height: auto;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+    .date-selector .next-date {
+        font-size: 11px;
+        right: -35px;
+        height: auto;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+    .date-options{
+        padding: 0;
+    }
+    .date-option {
+        text-align: center;
+        font-size: 11px;
+        margin: 3px 1.5%;
+        width: 45%;
+    }
+    .time-option {
+        text-align: center;
+        font-size: 11px;
+        width: 46%;
+        margin: 3px 1.5%;
+    }
+    .map-full .map-content {
+        position: relative !important;
+        transform: inherit !important;
+        left: inherit !important;
+        top: inherit !important;
+        max-width: 100% !important;
+        margin-top: 35px;
+    }
+ } 
+
+
+ @media (max-width: 355px) {
+    .dlist_single .content{
+        padding: 15px;
+    }
+    .date-option{
+        display: none;
+    }
+    .date-option:first-child{
+        display: block;
+    }
+    .calendar-plugin{
+        padding: 10px;
+    }
+    .time-option {
+      text-align: center;
+      font-size: 11px;
+      width: 44%;
+      margin: 3px 1.5%;
+    }
+  }
+
+
+
+
+
+
+/*
+@media (max-width: 1199.98px) {  }
+@media (max-width: 991.98px) {  }
+@media (max-width: 767.98px) {  }
+@media (max-width: 575.98px) {  } 
+
+*/
